@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Bahangado">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="9dp"
+            android:text="Bahan : \n
+         5 buah lontong, potong-potong\n
+         1/4 daun selada, cuci bersih\n
+         1/4 tauge, seduh air panas\n
+         5 lembar daun kol, iris dan rebus\n
+         1 ikat kacang panjang\n
+         4 buah kentang, rebus\n
+         6 buah telur, rebus\n
+         2 buah timun, iris-iris\n
+         2 buah wortel, iris korek api dan rebus\n
+         6 buah telur, rebus\n
+         1 papan tempe, goreng\n
+         3 buah tahu putih, goreng\n
+         4 buah tomat\n\n
+        Bahan bumbu kacang:\n
+         500 gr kacang tanah, goreng\n
+         20 siung bawang putih, goreng\n
+         5 buah cabai merah besar, goreng\n
+         5 buah cabai merah keriting\n
+         150 gr gula merah, sisir\n
+         8 buah asam Jawa\n
+         2 sdt terasi, bakar/goreng\n
+         4 sdt garam\n
+         5-6 sdm gula pasir\n
+         1200 ml santan"
+            android:textColor="#2E2E2E"></TextView>
+
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".buatbubur">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="25dp"
+            android:text="1. Rebus beras dengan 1 liter air dan daun salam, biarkan sampai beras menjadi lembek (api sedang).\n\n2. Jika air sudah sedikit menyusut, tambahkan air kaldu,biarkan sampai beras menjadi bubur (sambil sesekali diaduk).\n\n3. Tambahkan garam, kaldu bubuk, merica, dan santan, aduk rata.\n\n4. Jika bubur masih belum lembek, bisa tambahkan sisa air (1 liter) sampai bubur benar-benar lembek sempurna.\n\n5. Aduk terus jangan sampai bagian bawahnya gosong. Jika bubur sudah set, matikan api.\n"
+            android:textAlignment="textStart"
+            android:textColor="#2E2E2E"/>
+
+
+    </ScrollView>
+
+</RelativeLayout>

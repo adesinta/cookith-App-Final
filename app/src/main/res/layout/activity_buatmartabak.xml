@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".buatmartabak">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="25dp"
+            android:text="1. Taruh ragi instan dan gula dalam mangkuk. Beri 100 ml air hangat dan aduk hingga larut. Sisihkan.\n
+        \n2. Campur tepung terigu, gula, susu bubuk dan baking powder hingga rata.\n
+        \n3. Tambahkan sisa air sedikit sedikit hingga tercampur rata.\n
+        \n4. Kocok telur dan gula pasir hingga gula larut.\n
+        \n5. Tuangkan ke dalam adonan tepung lalu aduk hingga tercampur rata.\n
+        \n6. Masukkan larutan ragi, soda kue dan margarin leleh, aduk-aduk hingga licin dan diamkan hingga sedikit mengembang.\n
+        \n7. Panaskan cetakan di atas api sedang. Tuangkan adonan ke dalam lubang cetakan sambil tekan dengan sendok sayur agar terbentuk lapisan tipis di kelilingnya.\n
+        \n8. Setelah berlubang-lubang kecil, tutup cetakan, masak hingga agak kecokelatan.\n
+        \n9. Angkat martabak, olesi/kucuri sedikit susu kental manis dan taburi keju cheddar.\n"
+            android:textColor="#2E2E2E">
+
+        </TextView>
+
+
+    </ScrollView>
+
+</RelativeLayout>

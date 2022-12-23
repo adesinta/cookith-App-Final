@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.ades.tes1">
+
+    <queries>
+        <package android:name="com.whatsapp" />
+    </queries>
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/foodicon"
+        android:label="Cookith"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TES1"
+        tools:targetApi="31">
+        <activity
+            android:name=".Contact"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".WelcomeeActivity"
+            android:exported="false"></activity>
+        <activity
+            android:name=".RegisterrActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginnActivity"
+            android:exported="false" />
+        <activity
+            android:name=".buatmartabak"
+            android:exported="false" />
+        <activity
+            android:name=".buatgado"
+            android:exported="false" />
+        <activity
+            android:name=".buatgeprek"
+            android:exported="false" />
+        <activity
+            android:name=".buatbubur"
+            android:exported="false" />
+        <activity
+            android:name=".bahanmartabak"
+            android:exported="false" />
+        <activity
+            android:name=".martabak"
+            android:exported="false" />
+        <activity
+            android:name=".Bahangeprek"
+            android:exported="false" />
+        <activity
+            android:name=".geprek"
+            android:exported="false" />
+        <activity
+            android:name=".Bahangado"
+            android:exported="false" />
+        <activity
+            android:name=".Gadogado"
+            android:exported="false" />
+        <activity
+            android:name=".Bahanbubur"
+            android:exported="false" />
+        <activity
+            android:name=".Buburayam"
+            android:exported="false" />
+        <activity
+            android:name=".CaraBuat"
+            android:exported="false" />
+        <activity
+            android:name=".Bahan"
+            android:exported="false" />
+        <activity
+            android:name=".Ayambakar"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>

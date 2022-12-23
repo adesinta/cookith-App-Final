@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/drawable-v24/bg_bottom_menu.xml" value="0.1" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/drawable-v24/ic_baseline_account_circle_24.xml" value="0.1955" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/drawable-v24/ic_baseline_email_24.xml" value="0.1955" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/drawable-v24/ic_baseline_format_list_bulleted_24.xml" value="0.1" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/drawable-v24/ic_baseline_home_32.xml" value="0.1" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/drawable-v24/ic_baseline_medical_information_24.xml" value="0.1" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/drawable-v24/ic_baseline_person_24.xml" value="0.195" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/activity_ayambakar.xml" value="0.2484375" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/activity_bahangado.xml" value="0.2484375" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/activity_bahangeprek.xml" value="0.2484375" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/activity_bahanmartabak.xml" value="0.2484375" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/activity_buatbubur.xml" value="0.2484375" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/activity_buatmartabak.xml" value="0.2484375" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/activity_buburayam.xml" value="0.1" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/activity_cara_buat.xml" value="0.2484375" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/activity_contact.xml" value="0.23148148148148148" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/activity_gadogado.xml" value="0.2484375" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/activity_geprek.xml" value="0.2484375" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/activity_loginn.xml" value="0.2484375" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/activity_main.xml" value="0.2484375" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/activity_martabak.xml" value="0.128" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/activity_registerr.xml" value="0.2484375" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/activity_splash_screen.xml" value="0.24739583333333334" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/activity_welcome.xml" value="0.4" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/fragment_help.xml" value="0.23333333333333334" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/fragment_list.xml" value="0.1" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/layout/gambar.xml" value="0.2484375" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/menu/navigation.xml" value="0.1" />
+        <entry key="..\:/cookitmobile/fixplis/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.195" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

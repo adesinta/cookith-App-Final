@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".buatgeprek">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="25dp"
+            android:text="1. Campur ayam dengan air lemon, ketumbar, all porpuse seasoning, kaldu bubuk, garam, dan lada di dalam wadah, lalu baluri ayam dengan bumbu hingga rata. Biarkan bumbu marinasi meresap selama 30 menit.\n
+        \n2. Campur tepung terigu, kaldu bubuk, baking powder, dan baking soda hingga rata, lalu sisihkan untuk adonan tepung kering. Kemudian tuang air es ke dalam wadah terpisah dan sisihkan untuk bahan celup.\n
+        \n3. Baluri daging ayam yang sudah dimarinasi ke dalam tepung kering, setelah itu celupkan ayam ke dalam air es. Kemudian celup kembali ayam ke dalam tepung kering  dan ulangi hingga ayam dibaluri semua dengan tepung.\n
+        \n4. Goreng ayam di dalam minyak panas menggunakan api kecil hingga matang dan berubah warna menjadi kecoklatan. Setelah itu angkat dan sajikan ayam bersama sambal geprek.\n"
+            android:textColor="#2E2E2E">
+
+        </TextView>
+
+
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".buatgado">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="25dp"
+            android:textAlignment="textStart"
+            android:text="1. Blender semua bahan bumbu kacang sampai halus.\n\n2. Rebus dengan api kecil hingga mendidih. Tes rasa.\n\n3. Terus masak bumbu kacang hingga matang sampai meletup-letup dan kental.\n\n4. Angkat dan sisihkan.\n\n5. Penyajian: Ambil piring, tata rapi semua bahan gado-gado. Siram dengan saus kacang dan taburi dengan bawang goreng dan beri kerupuk secukupnya."
+            android:textColor="#2E2E2E">
+
+        </TextView>
+
+
+    </ScrollView>
+
+</RelativeLayout>

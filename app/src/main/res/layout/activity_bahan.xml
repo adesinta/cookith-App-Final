@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Bahan">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="9dp"
+            android:text="Bahan : \n - 4 lembar daun salam \n - 2 batang serai, memarkan \n - 20 g asam Jawa, larutkan dengan 3 sdm air panas \n - 500 ml santan \n - 2 sdm minyak, untuk menumis \n - 10 butir bawang merah \n - 5 siung bawang putih \n - 1 sdm ketumbar, sangrai\n - 5 butir kemiri \n - ½ sdt merica bubuk \n - 3 cm kunyit \n - 50 g gula merah, sisir halus\n - 1 sdt garam\n - 1 sdt gula pasir\n - 1 sdm Bango Kecap Manis"
+            android:textColor="#2E2E2E"/>
+    </ScrollView>
+
+</RelativeLayout>
